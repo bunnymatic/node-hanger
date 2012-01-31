@@ -1,0 +1,28 @@
+{
+  "name": "node_hanger",
+  "description": "Sample App to show Jasmine Node Hangin",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bunnymatic/node_hanger/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnymatic/node_hanger.git"
+  },
+  "author": "Mr Rogers <jon@2rye.com>",
+  "contributors": [
+    "Mr Rogers <jon@2rye.com>"
+  ],
+  "main": "./node_hanger.js",
+  "directories": {
+  },
+  "dependencies": {
+    "express": "2.5.x",
+    "jade": ""
+  },
+  "devDependencies": {
+    "jasmine-node": "1.0.20",
+    "zombie": ""
+  },
+  "engines": {
+    "node": ">= 0.4.12"
+  }
+}
