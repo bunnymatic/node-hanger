@@ -19,7 +19,7 @@
     "jade": ""
   },
   "devDependencies": {
-    "jasmine-node": "1.0.20",
+    "jasmine-node": "1.0.24",
     "zombie": ""
   },
   "engines": {
